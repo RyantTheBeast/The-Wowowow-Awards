@@ -1,0 +1,26 @@
+img {
+    width: 300px;
+    border: 10px solid gold;
+}
+html {
+   background-color: pink;
+}
+h1 {
+    font-family: 'Ranga', cursive;
+    color: purple;
+}
+p {
+    color:white;
+}
+h2 {
+    font-family: 'Lobster', cursive;
+     color: blue;
+}
+li {
+    color: black;
+}
+h3 {
+    color: white;
+}
+
+
