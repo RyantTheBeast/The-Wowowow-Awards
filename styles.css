@@ -3,7 +3,7 @@ img {
     border: 10px solid gold;
 }
 html {
-   background-color: pink;
+   background-color: red;
 }
 h1 {
     font-family: 'Ranga', cursive;
@@ -20,7 +20,16 @@ li {
     color: black;
 }
 h3 {
-    color: white;
+    color: green;
+    font-family: 'Courgette', cursive;
 }
 
-
+body {
+    text-align: center;
+}
+ul {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    list-style: inside;
+}
